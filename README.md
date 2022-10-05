@@ -11,7 +11,7 @@
 
 * 글자체
 **bold**<br>
-_italic_
+_italic_ <br>
 ~~strikethrough~~
 
 * 링크 넣기
